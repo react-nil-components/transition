@@ -1,6 +1,6 @@
 {
     "name": "react-widget-transition",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "",
     "main": "lib/index.js",
     "scripts": {
@@ -34,6 +34,11 @@
         "react": "^16.5.2",
         "react-transition-group": "^2.5.0"
     },
+    "files": [
+        "*.md",
+        "*.js",
+        "lib"
+    ],
     "devDependencies": {
         "@babel/plugin-transform-modules-amd": "^7.1.0",
         "@babel/plugin-transform-modules-commonjs": "^7.1.0",
